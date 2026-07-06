@@ -13,6 +13,7 @@ import logRoutes    from './routes/log.routes.js';
 import uploadRoutes from './routes/upload.routes.js';
 import reportRoutes from './routes/report.routes.js';
 import userRoutes   from './routes/user.routes.js';
+import { tr } from 'zod/v4/locales';
 
 dotenv.config();
 
@@ -28,7 +29,7 @@ const ALLOWED_ORIGINS = [
 ].filter(Boolean);
 
 app.use(cors({
-  origin:      ALLOWED_ORIGINS,
+  origin:      true,
   credentials: true,
 }));
 
