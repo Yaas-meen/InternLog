@@ -1,6 +1,5 @@
 
 
-```markdown
 # InternLog — SIWES Documentation Platform
 
 > A full-stack MERN application for Nigerian SIWES students to log daily
@@ -269,7 +268,3 @@ The original repo: [github.com/Yaas-meen/InternLog](https://github.com/Yaas-meen
 **Author**
 Yaas-meen
 Nile University of Nigeria · Software Engineering
-
-```
-
-```
