@@ -8,7 +8,8 @@
 > generate professional PDF reports, and get supervisor reviews all in one place.
 
 **Live Demo:** [Visit the Live Application](https://intern-log-ten.vercel.app) 
-🔗 **Original vanilla version (frontend only):** [GitHub](https://github.com/Yaas-meen/Internship-Journal-Platform)
+🔗
+**Original vanilla version (frontend only):** [GitHub](https://github.com/Yaas-meen/Internship-Journal-Platform)
 
 ---
 
