@@ -18,15 +18,15 @@ The original InternLog was built with plain HTML, CSS, and JavaScript
 with no backend — data lived only in the browser. This version is a
 complete migration to the MERN stack:
 
-| Feature | Vanilla Version | MERN Version |
-|---|---|---|
-| Data storage | localStorage only | MongoDB Atlas (cloud) |
-| Authentication | None | JWT dual-token (access + refresh) |
-| User accounts | None | Register / login / roles |
-| Supervisor review | None | Admin portal with remarks |
-| AI Integration | None | Gemini API (In development) |
-| PDF reports | Basic | Weekly + monthly |
-| Deployment | Frontend only (Vercel) | Frontend (Vercel) + Backend (Render) |
+| Feature             | Vanilla Version        | MERN Version                           |
+| ------------------- | ---------------------- | -------------------------------------- |
+| Data storage        | localStorage only      | MongoDB Atlas (cloud)                  |
+| Authentication      | None                   | JWT dual-token (access + refresh)      |
+| User accounts       | None                   | Register / login / roles               |
+| Supervisor review   | None                   | Admin portal with remarks              |
+| AI Integration      | None                   | Gemini API (In development)            |
+| PDF reports         | Basic                  | Weekly + monthly                       |
+| Deployment          | Frontend only (Vercel) | Frontend (Vercel) + Backend (Render)   |
 
 ---
 
